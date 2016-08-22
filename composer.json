@@ -1,0 +1,14 @@
+{
+    "name": "villeglad/fmspdf",
+    "description": "PDF creator for FileMaker Server",
+    "require": {
+        "mpdf/mpdf": "^6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "villeglad",
+            "email": "ville.j.glad@gmail.com"
+        }
+    ]
+}
